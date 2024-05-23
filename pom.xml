@@ -12,7 +12,8 @@
 
   <artifactId>sonar</artifactId>
   <version>${revision}${changelist}</version>
-  <packaging>hpi</packaging>
+  <packaging>maven-plugin</packaging>
+
 
   <name>SonarQube Scanner for Jenkins</name>
   <url>https://github.com/jenkinsci/sonarqube-plugin</url>
